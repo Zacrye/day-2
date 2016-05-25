@@ -6,42 +6,36 @@
 
 .header{
   background-color: blue;
-  padding: 30px;
   border: 3px solid black;
   height: 200px;
 }
 
 .nav{
   background-color: green;
-  padding: 30px;
   border: 3px solid black;
   height: 100px;
 }
 
 .content{
   background-color: red;
-  padding: 30px;
   border: 3px solid black;
   height: 300px;
 }
 
 .aside{
   background-color: aqua;
-  padding: 30px;
   border: 3px solid black;
   height: 300px;
 }
 
 .promo{
   background-color: orange;
-  padding: 30px;
   border: 3px solid black;
   height: 150px;
+  background-color: black;
 }
 
 footer{
-  background-color: black;
-  padding: 30px;
   color: white;
   /*border: 3px solid black;*/
   height: 100px;
