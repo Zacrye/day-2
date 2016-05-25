@@ -40,3 +40,46 @@ footer{
   /*border: 3px solid black;*/
   height: 100px;
 }
+
+@media screen and (min-width: 375px) {
+  .header{
+    background-color: gray;
+  }
+  .nav{
+    background-color: aqua;
+  }
+  .content{
+    background-color: blue;
+  }
+  .aside{
+    background-color: white;
+  }
+  .promo{
+    background-color: lightgreen;
+  }
+  footer{
+    background-color: lightblue;
+    color: black;
+  }
+}
+
+@media screen and (min-width:768px) {
+  .header{
+    background-color: red;
+  }
+  .nav{
+    background-color: orange;
+  }
+  .content{
+    background-color: yellow;
+  }
+  .aside{
+    background-color: lightyellow;
+  }
+  .promo{
+    background-color: hotpink;
+  }
+  footer{
+    background-color: darkred;
+  }
+}
